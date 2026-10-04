@@ -14,7 +14,6 @@
   <a href="https://github.com/kalpanath-selvaraja?tab=followers">
     <img src="https://img.shields.io/github/followers/kalpanath-selvaraja?style=for-the-badge&logo=github&label=Follow&color=blue" alt="GitHub Follow" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=kalpanath-selvaraja&style=for-the-badge&color=brightgreen&label=Visitors" alt="Visitor Count" />
 </p>
 
 </div>
@@ -27,7 +26,7 @@
 Software engineering student at **IJSE (HDSE)** in Sri Lanka, building full-stack web apps and REST APIs.
 
 - 🌱 Currently learning **TypeScript, Node.js, and React**
-- 🔭 Building **[CODLink](https://github.com/kalpanath-selvaraja/COD_Link)** — a courier & COD management API with Spring Boot
+- 🔭 Building  currently focusing on the **RAD(Rapid application development)**
 - 📫 Reach me at **kalpanathofficial@gmail.com**
 - ⚡ Fun fact: I turn "open laptop → YouTube" into a 2-minute start on learning
 
