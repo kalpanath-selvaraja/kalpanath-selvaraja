@@ -2,9 +2,11 @@
 <div align="center">
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
+<!-- <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7B500&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there+%F0%9F%91%8B+I'm+Kalpanath;Software+Engineering+Student;Full-Stack+Developer;Building+things+with+Java+%26+React" alt="Typing SVG" />
-</a>
+</a> -->
+
+<h1>Hi 👋, I am Kalpanath Selvaraja</h1>
 
 <!-- Social Badges -->
 <p>
