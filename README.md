@@ -30,7 +30,7 @@ Software engineering student at **IJSE (HDSE)** in Sri Lanka, building full-stac
 - 🌱 Currently learning **TypeScript, Node.js, and React**
 - 🔭 Building  currently focusing on the **RAD(Rapid application development)**
 - 📫 Reach me at **kalpanathofficial@gmail.com**
-- ⚡ Fun fact: I turn "open laptop → YouTube" into a 2-minute start on learning
+
 
 ---
 
